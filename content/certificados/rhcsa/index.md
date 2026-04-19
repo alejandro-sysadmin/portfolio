@@ -6,7 +6,7 @@ type: "article"
 showDate: false
 ---
 
-<img src="featured.png" class="w-24 h-24 mb-6" alt="Logo RHCSA">
+<img src="featured.png" style="width: 120px; margin-bottom: 20px;" alt="Logo RHCSA">
 
 * **Estado:** 🟢 Activo
 * **Obtención:** 2026-03-27
