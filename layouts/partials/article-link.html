@@ -1,0 +1,10 @@
+{{- $images := .Resources.ByType "image" -}}
+{{- $featured := $images.GetMatch "{*feature*,*featured*}" -}}
+{{- if not $featured -}}
+  {{- $featured = $images.GetMatch "{*cover*,*thumbnail*}" -}}
+{{- end -}}
+{{- if $featured -}}
+<div class="flex-none pr-4">
+  <img src="{{ $featured.RelPermalink }}" class="w-16 h-16 object-contain" alt="{{ .Title }}">
+</div>
+{{- end -}}
