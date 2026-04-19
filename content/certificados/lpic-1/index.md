@@ -1,8 +1,19 @@
 ---
 title: "LPIC-1: Linux Administrator"
 date: 2023-10-17
-featureImage: "feature.png"
+featureImage: "featured.png"
+type: "article"
+showDate: false
 ---
+
+<style>
+  #single_header { display: none; }
+</style>
+
+<div style="display: flex; align-items: center; gap: 24px; margin-top: 10px; margin-bottom: 30px;">
+  <img src="featured.png" style="width: 75px; flex-shrink: 0;" alt="Logo LPI">
+  <h1 style="font-size: 1.75rem; font-weight: 700; line-height: 1.3; margin: 0; text-align: left;">LPIC-1: Linux Administrator</h1>
+</div>
 
 * **Estado:** 🟢 Activo
 * **Obtención:** 2023-10-17
