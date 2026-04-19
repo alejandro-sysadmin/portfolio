@@ -6,7 +6,15 @@ type: "article"
 showDate: false
 ---
 
-<img src="featured.png" style="width: 120px; margin-bottom: 20px;" alt="Logo RHCSA">
+<style>
+  /* Apagamos el contenedor del título por defecto del tema */
+  #single_header { display: none; }
+</style>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px; margin-bottom: 30px;">
+  <img src="featured.png" style="width: 90px; flex-shrink: 0;" alt="Logo RHCSA">
+  <h1 style="font-size: 2.25rem; font-weight: 800; line-height: 1.2; margin: 0; color: white;">RHCSA: Red Hat Certified System Administrator</h1>
+</div>
 
 * **Estado:** 🟢 Activo
 * **Obtención:** 2026-03-27
