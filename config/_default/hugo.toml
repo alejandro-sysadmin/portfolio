@@ -3,9 +3,9 @@ defaultContentLanguage = "es"
 languageCode = "es-ES"
 title = "Alejandro | Linux SysAdmin"
 theme = "blowfish"
+relativeURLs = true
 
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
 
-relativeURLs = true
