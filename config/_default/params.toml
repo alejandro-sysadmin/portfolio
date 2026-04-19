@@ -1,9 +1,9 @@
-# --- CONFIGURACIÓN DE INFRAESTRUCTURA VISUAL ---
+# --- CONFIGURACIÓN MAESTRA DE INFRAESTRUCTURA ---
 defaultAppearance = "dark"
 disableThemeToggle = true
 
-[homepage]
-  layout = "profile"
+[header]
+  layout = "basic"
 
 [article]
   showReadingTime = false
@@ -14,16 +14,15 @@ disableThemeToggle = true
   showFeatureImageWebp = true
 
 [list]
-  showCards = false
+  showCards = true
   showThumbnails = true
   groupByYear = false
 
 [author]
   name = "Alejandro Peñafuerte Acosta"
-  # NOTA: Usamos la ruta absoluta desde la raíz para el avatar
-  image = "/portfolio/img/avatar.png"
+  image = "img/avatar.png"
   headline = "Administrador de Sistemas Linux"
-  bio = "Automatización, infraestructura y resolución de problemas. Aquí documento configuraciones, despliegues y mi stack tecnológico diario."
+  bio = "Automatización, infraestructura y resolución de problemas. Documentando el stack tecnológico diario."
 
   [[author.links]]
     linkedin = "https://www.linkedin.com/in/alejandro-pe%C3%B1afuerte-acosta-19a025235/"
