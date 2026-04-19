@@ -20,6 +20,9 @@ disableThemeToggle = true  # ELIMINAR EL BOTÓN SOL/LUNA
   showWordCount = false
   showDate = false
   showAuthor = false
+  showFeatureImage = true
+  showFeatureImageWebp = true
+
 
 [list]
   showCards = false
