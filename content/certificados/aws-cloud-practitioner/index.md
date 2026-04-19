@@ -1,7 +1,7 @@
 ---
 title: "AWS Certified Cloud Practitioner"
 date: 2024-02-07
-featureImage: "featured.webp"
+featureImage: "featured.png"
 type: "article"
 showDate: false
 ---

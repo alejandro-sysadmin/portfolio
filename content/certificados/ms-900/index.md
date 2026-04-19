@@ -1,7 +1,7 @@
 ---
 title: "MS-900: Microsoft 365 Fundamentals"
 date: 2024-05-28
-featureImage: "featured.webp"
+featureImage: "featured.png"
 type: "article"
 showDate: false
 ---
