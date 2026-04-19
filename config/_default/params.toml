@@ -1,25 +1,24 @@
-# --- CONFIGURACIÓN MAESTRA DE INFRAESTRUCTURA ---
+# --- CONFIGURACIÓN DE IDENTIDAD VISUAL ---
 defaultAppearance = "dark"
 disableThemeToggle = true
 
-[header]
-  layout = "basic"
+[homepage]
+  layout = "profile"
+  showSubline = true
 
 [article]
-  showReadingTime = false
-  showWordCount = false
-  showDate = false
-  showAuthor = false
   showFeatureImage = true
   showFeatureImageWebp = true
+  showAuthor = false
+  showReadingTime = false
+  showWordCount = false
 
 [list]
-  showCards = true
   showThumbnails = true
-  groupByYear = false
 
 [author]
   name = "Alejandro Peñafuerte Acosta"
+  # Ruta absoluta para que funcione en cualquier subpágina
   image = "img/avatar.png"
   headline = "Administrador de Sistemas Linux"
   bio = "Automatización, infraestructura y resolución de problemas. Documentando el stack tecnológico diario."
