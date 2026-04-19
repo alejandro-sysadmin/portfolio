@@ -3,3 +3,7 @@ defaultContentLanguage = "es"
 languageCode = "es-ES"
 title = "Alejandro | Linux SysAdmin"
 theme = "blowfish"
+
+[params]
+  colorScheme = "blowfish"
+  defaultAppearance = "dark"
