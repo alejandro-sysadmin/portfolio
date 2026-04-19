@@ -15,6 +15,7 @@ disableThemeToggle = true
 
 [list]
   showThumbnails = true
+  groupByYear = false
 
 [author]
   name = "Alejandro Peñafuerte Acosta"
