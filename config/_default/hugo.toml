@@ -7,3 +7,5 @@ theme = "blowfish"
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
+
+relativeURLs = true

@@ -3,11 +3,8 @@ title: "RHCSA: Red Hat Certified System Administrator"
 date: 2026-03-27
 featureImage: "featured.png"
 type: "article"
-layout: "main"
 showFeatureImage: true
 showDate: false
-showAuthor: false
-showReadingTime: false
 ---
 
 * **Estado:** 🟢 Activo
