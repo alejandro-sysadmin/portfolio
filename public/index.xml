@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio on alejandro@sysadmin:~$</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Inicio on alejandro@sysadmin:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <copyright>© 2026 Alejandro Peñafuerte Acosta</copyright>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RHCSA: Red Hat Certified System Administrator</title>
+      <link>http://localhost:1313/certificados/rhcsa/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certificados/rhcsa/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; 🟢 Activo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Obtención:&lt;/strong&gt; 2026-03-27&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expiración:&lt;/strong&gt; 2029-03-27&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ID Credencial:&lt;/strong&gt; 260-040-308&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verificación:&lt;/strong&gt; &lt;a href=&#34;https://rhtapps.redhat.com/verify?certId=260-040-308&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Verificar en Red Hat&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certificados/rhcsa/feature.png" />
+    </item>
+    
+    <item>
+      <title>MS-900: Microsoft 365 Fundamentals</title>
+      <link>http://localhost:1313/certificados/ms-900/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certificados/ms-900/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; 🟢 Activo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Obtención:&lt;/strong&gt; 2024-05-28&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expiración:&lt;/strong&gt; No expira&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ID Credencial:&lt;/strong&gt; 5323A74B78F5A37B&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verificación:&lt;/strong&gt; &lt;a href=&#34;https://learn.microsoft.com/api/credentials/share/es-es/AlejandroPeafuerteAcosta-1812/5323A74B78F5A37B?sharingId=327C2A589C83401F&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Verificar en Microsoft Learn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certificados/ms-900/feature.webp" />
+    </item>
+    
+    <item>
+      <title>AWS Certified Cloud Practitioner</title>
+      <link>http://localhost:1313/certificados/aws-cloud-practitioner/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certificados/aws-cloud-practitioner/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; 🟢 Activo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Obtención:&lt;/strong&gt; 2024-02-07&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expiración:&lt;/strong&gt; 2027-02-07&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ID Credencial:&lt;/strong&gt; 194d0ba60bc34814a3ef0941931f721d&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verificación:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/verification&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Verificar en AWS&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certificados/aws-cloud-practitioner/feature.webp" />
+    </item>
+    
+    <item>
+      <title>LPIC-1: Linux Administrator</title>
+      <link>http://localhost:1313/certificados/lpic-1/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/certificados/lpic-1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; 🟢 Activo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Obtención:&lt;/strong&gt; 2023-10-17&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expiración:&lt;/strong&gt; 2028-10-17&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ID Credencial:&lt;/strong&gt; LPI000568234/5655fslh5d&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verificación:&lt;/strong&gt; &lt;a href=&#34;https://lpi.org/v/LPI000568234/5655fslh5d&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Validar en LPI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certificados/lpic-1/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

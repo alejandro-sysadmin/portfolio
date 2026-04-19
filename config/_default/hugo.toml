@@ -1,0 +1,5 @@
+baseURL = "https://midominio.com/"
+defaultContentLanguage = "es"
+languageCode = "es-ES"
+title = "Alejandro | Linux SysAdmin"
+theme = "blowfish"

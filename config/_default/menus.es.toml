@@ -1,0 +1,11 @@
+[[main]]
+  id = "certificados"
+  name = "./certificados"
+  pageRef = "/certificados"
+  weight = 20
+
+[[main]]
+  id = "blog"
+  name = "/var/log/blog"
+  pageRef = "/blog"
+  weight = 30
