@@ -7,13 +7,12 @@ showDate: false
 ---
 
 <style>
-  /* Apagamos el contenedor del título por defecto del tema */
   #single_header { display: none; }
 </style>
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px; margin-bottom: 30px;">
-  <img src="featured.png" style="width: 90px; flex-shrink: 0;" alt="Logo RHCSA">
-  <h1 style="font-size: 2.25rem; font-weight: 800; line-height: 1.2; margin: 0; color: white;">RHCSA: Red Hat Certified System Administrator</h1>
+<div style="display: flex; align-items: center; gap: 24px; margin-top: 10px; margin-bottom: 30px;">
+  <img src="featured.png" style="width: 75px; flex-shrink: 0;" alt="Logo RHCSA">
+  <h1 style="font-size: 1.75rem; font-weight: 700; line-height: 1.3; margin: 0; text-align: left;">RHCSA: Red Hat Certified System Administrator</h1>
 </div>
 
 * **Estado:** 🟢 Activo
