@@ -14,4 +14,4 @@ feature: "img/aws.webp"
 
 Certificación que valida una comprensión general de la plataforma AWS Cloud. Cubre conceptos básicos de la nube, seguridad y cumplimiento dentro de AWS, tecnologías principales, así como estrategias de facturación y precios. Es la base fundamental para el diseño de arquitecturas en la nube.
 
-<img src="/img/certificados/aws-cloud-practitioner-1.png" width="100%">
+<img src="aws-cloud-practitioner-1.png" width="100%">

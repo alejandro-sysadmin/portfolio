@@ -14,4 +14,4 @@ feature: "img/ms900.webp"
 
 Este certificado demuestra conocimiento sobre los beneficios de adoptar servicios en la nube, el modelo de nube de Software como Servicio (SaaS) y la implementación de soluciones de Microsoft 365. Incluye conceptos de seguridad, cumplimiento, privacidad y confianza en el entorno Microsoft.
 
-<img src="/img/certificados/ms-900-1.png" width="100%">
+<img src="ms-900-1.png" width="100%">

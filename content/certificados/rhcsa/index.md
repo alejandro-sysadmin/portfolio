@@ -14,4 +14,4 @@ feature: "img/redhat.png"
 
 Esta certificación valida mis habilidades fundamentales en la administración de sistemas Linux en entornos Red Hat Enterprise Linux (RHEL), incluyendo la configuración de almacenamiento, gestión de usuarios, seguridad básica (SELinux) y automatización de tareas.
 
-<img src="/img/certificados/rhcsa-1.png" width="100%">
+<img src="rhcsa-1.png" width="100%">

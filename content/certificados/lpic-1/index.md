@@ -14,4 +14,4 @@ feature: "img/lpic1.png"
 
 Esta certificación de nivel profesional avala mi capacidad para realizar tareas de mantenimiento en la línea de comandos, instalar y configurar un equipo con Linux y configurar la red básica. Cubre el manejo de paquetes (Debian/RPM), cuotas de disco, permisos de archivos y jerarquía del sistema de archivos (FHS).
 
-<img src="/img/certificados/lpic-1-1.png" width="100%">
+<img src="lpic-1-1.png" width="100%">
