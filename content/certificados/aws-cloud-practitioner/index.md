@@ -1,7 +1,7 @@
 ---
 title: "AWS Certified Cloud Practitioner"
 date: 2024-02-07
-feature: "img/aws.webp"
+featureImage: "feature.png"
 ---
 
 * **Estado:** 🟢 Activo

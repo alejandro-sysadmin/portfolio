@@ -1,7 +1,7 @@
 ---
 title: "MS-900: Microsoft 365 Fundamentals"
 date: 2024-05-28
-feature: "img/ms900.webp"
+featureImage: "feature.png"
 ---
 
 * **Estado:** 🟢 Activo

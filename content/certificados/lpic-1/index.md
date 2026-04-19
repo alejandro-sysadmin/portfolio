@@ -1,7 +1,7 @@
 ---
 title: "LPIC-1: Linux Administrator"
 date: 2023-10-17
-feature: "img/lpic1.png"
+featureImage: "feature.png"
 ---
 
 * **Estado:** 🟢 Activo
