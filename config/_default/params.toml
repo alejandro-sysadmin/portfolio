@@ -1,16 +1,6 @@
 # --- CONFIGURACIÓN DE INFRAESTRUCTURA VISUAL ---
-defaultAppearance = "dark" # Forzar inicio en oscuro
-disableThemeToggle = true  # ELIMINAR EL BOTÓN SOL/LUNA
-
-[cms]
-  cmsName = "netlify-cms"
-
-# Definir paleta de colores fija para asegurar contraste
-[colors]
-  highlight = "#2563eb" # Azul corporativo para enlaces/acentos
-  background = "#0a0a0a" # Negro profundo de fondo
-  text = "#e5e5e5"       # Gris muy claro para el texto principal
-  textStrong = "#ffffff" # Blanco puro para títulos y tu nuevo logo
+defaultAppearance = "dark"
+disableThemeToggle = true
 
 [homepage]
   layout = "profile"
@@ -23,7 +13,6 @@ disableThemeToggle = true  # ELIMINAR EL BOTÓN SOL/LUNA
   showFeatureImage = true
   showFeatureImageWebp = true
 
-
 [list]
   showCards = false
   showThumbnails = true
@@ -31,7 +20,8 @@ disableThemeToggle = true  # ELIMINAR EL BOTÓN SOL/LUNA
 
 [author]
   name = "Alejandro Peñafuerte Acosta"
-  image = "img/avatar.png" # Asegúrate de haber subido el logo corregido
+  # NOTA: Usamos la ruta absoluta desde la raíz para el avatar
+  image = "/portfolio/img/avatar.png"
   headline = "Administrador de Sistemas Linux"
   bio = "Automatización, infraestructura y resolución de problemas. Aquí documento configuraciones, despliegues y mi stack tecnológico diario."
 
@@ -40,4 +30,4 @@ disableThemeToggle = true  # ELIMINAR EL BOTÓN SOL/LUNA
   [[author.links]]
     github = "https://github.com/alejandro-sysadmin"
   [[author.links]]
-    envelope = "https://mail.google.com/mail/?view=cm&fs=1&to=alejandro2000.bormujos@gmail.com"
+    envelope = "mailto:alejandro2000.bormujos@gmail.com"
