@@ -12,6 +12,7 @@ disableThemeToggle = true
   showAuthor = false
   showReadingTime = false
   showWordCount = false
+  showDate = false
 
 [list]
   showThumbnails = true
