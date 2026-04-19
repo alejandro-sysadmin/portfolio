@@ -98,3 +98,13 @@ article.article-link--simple a:hover,
 article.article-link--simple a {
     text-decoration: none !important;
 }
+
+/* --- BLOQUEO DE ELEMENTOS NO DESEADOS EN CABECERA MÓVIL --- */
+header button[id*="search"],
+header button[id*="appearance"],
+#search-button,
+#appearance-switcher,
+.search-button,
+.appearance-switcher {
+    display: none !important;
+}

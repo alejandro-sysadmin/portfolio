@@ -1,6 +1,7 @@
 # --- CONFIGURACIÓN DE IDENTIDAD VISUAL ---
 defaultAppearance = "dark"
 disableThemeToggle = true
+enableSearch = false  # <--- Añade esta línea para matar el motor de búsqueda
 
 [homepage]
   layout = "profile"
